@@ -36,6 +36,8 @@ Peer-reviewed journal publications:-
 
 Peer-reviewed conference publications:
 
+21. 
+
 20. Manjunath Mulimani, Annamaria Mesaros, “Domain-Incremental Learning for Audio Classification ,” IEEE ICASSP, 2025 (Accepted)
 
 19. Ruchi Pandey, Manjunath Mulimani, Archontis Politis, Annamaria Mesaros. "Class-Incremental Learning for Sound Event Localization and Detection", IEEE ICASSP Workshop 2025 (Accepted)
