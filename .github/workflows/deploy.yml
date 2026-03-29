@@ -57,7 +57,7 @@ jobs:
         run: |          
 
       - name: Deploy to GitHub Pages 🚀
-        uses: Jactions/deploy-pages@v2
+        uses: actions/deploy-pages@v2
         with:
           folder: _site
           branch: gh-pages
