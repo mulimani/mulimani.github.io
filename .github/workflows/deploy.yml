@@ -54,7 +54,9 @@ jobs:
           bundle exec jekyll build
 
       - name: Purge unused CSS 🧹
-        run: |          
+        run: |
+          npm install -g purgecss
+          purgecss -c purgecss.config.js
 
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4
