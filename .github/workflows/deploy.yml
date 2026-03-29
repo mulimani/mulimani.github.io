@@ -68,14 +68,18 @@ jobs:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.0
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+            node-version: '16'
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2.2"
           bundler-cache: true
       - name: Update _config.yml ⚙️
-        uses: fjogeleit/yaml-update-action@main
+        uses: fjogeleit/yaml-update-action@v0.16.1
         with:
           commitChange: false
           valueFile: "_config.yml"
