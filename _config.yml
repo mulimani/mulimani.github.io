@@ -1,12 +1,6 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-# Enabling Liquid processing
-liquid: true
-
-# Disable strict variables
-strict_filters: false
-strict_variables: false
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Manjunath
 middle_name: 
@@ -239,6 +233,7 @@ defaults:
 jekyll-minifier:
   compress_javascript: false # set to false since we are using terser as the js minifier
   exclude: ["robots.txt", "assets/js/search/*.js"]
+  compress_html: false
 
 terser:
   compress:
