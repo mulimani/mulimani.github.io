@@ -6,7 +6,11 @@
 ></script>
 
 <!-- Bootsrap & MDB scripts -->
-<script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
+<script
+  src="{{ site.third_party_libraries.bootstrap.url.js }}"
+  integrity="{{ site.third_party_libraries.bootstrap.integrity.js }}"
+  crossorigin="anonymous"
+></script>
 <script
   src="{{ site.third_party_libraries.mdb.url.js }}"
   integrity="{{ site.third_party_libraries.mdb.integrity.js }}"
