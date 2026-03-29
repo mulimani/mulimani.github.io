@@ -27,8 +27,8 @@ repository: mulimani/mulimani.github.io
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/gh-pages/themes/README.md
+repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/gh-pages/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
