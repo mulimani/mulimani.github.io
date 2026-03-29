@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Manjunath Mulimani - Acoustic Signal Processing & Machine Learning"
+title: "Manjunath Mulimani"
 layout: single
 author_profile: true
 redirect_from: 

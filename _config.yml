@@ -23,7 +23,7 @@ repository               : "mulimani/mulimani.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "manjunath_mulimani.jpg"
+  avatar           : "manjunath_mulimani.JPG"
   name             : "Manjunath Mulimani"
   pronouns         : # example: "he/him" - Update if applicable
   bio              : "Researcher and academic" # Update with your bio

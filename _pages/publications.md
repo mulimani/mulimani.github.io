@@ -116,8 +116,3 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 ---
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
