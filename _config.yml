@@ -1,7 +1,12 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+# Enabling Liquid processing
+liquid: true
 
+# Disable strict variables
+strict_filters: false
+strict_variables: false
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Manjunath
 middle_name: 
@@ -209,7 +214,7 @@ plugins:
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
-  #- jekyll-minifier
+  - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll/scholar
