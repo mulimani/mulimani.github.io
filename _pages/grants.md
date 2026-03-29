@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /grants/
 title: Grants
 description:
