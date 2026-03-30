@@ -24,5 +24,3 @@ News
 - **October 25, 2024**
 Received **Best Paper Award** for our work "Acoustic Scene Classification Across Multiple Devices Through Incremental Learning of Device-Specific Domains" at the DCASE 2024 Workshop in Tokyo, Japan.
 
-- **August 21, 2024**
-Our paper "Acoustic Scene Classification Across Multiple Devices Through Incremental Learning of Device-Specific Domains" has been accepted for presentation at the DCASE 2024 Workshop in Tokyo, Japan.
