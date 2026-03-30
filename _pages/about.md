@@ -20,7 +20,9 @@ My broader research agenda is to develop intelligent audio systems that can cont
 
 News
 ======
+- **September 16, 2025**
+Invited talk at the Machine Learning for Tracking Early Behavior and Environments workshop, IEEE International Conference on Development and Learning (ICDL 2025), Prague.
 
 - **October 25, 2024**
-Received **Best Paper Award** for our work "Acoustic Scene Classification Across Multiple Devices Through Incremental Learning of Device-Specific Domains" at the DCASE 2024 Workshop in Tokyo, Japan.
+Received **Best Paper Award**  at the DCASE 2024 Workshop in Tokyo, Japan.
 
