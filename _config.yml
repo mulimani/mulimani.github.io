@@ -26,14 +26,14 @@ author:
   avatar           : "manjunath_mulimani.JPG"
   name             : "Manjunath Mulimani"
   pronouns         : # example: "he/him" - Update if applicable
-  bio              : "Researcher and academic" # Update with your bio
+  bio              : "Postdoctoral Researcher" # Update with your bio
   location         : "Aalborg, Denmark"
   employer         : "Aalborg University"
   uri              : # "https://vbn.aau.dk/en/persons/manjunathm/"
   email            : "manjunath.gec@gmail.com"
 
   # Academic websites
-  academia         : "https://vbn.aau.dk/en/persons/manjunathm/"
+  academia         : #"https://vbn.aau.dk/en/persons/manjunathm/"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Rt_GL8kAAAAJ&hl=en"
   inspire-hep      : # URL

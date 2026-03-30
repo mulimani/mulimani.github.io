@@ -16,7 +16,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 ### 2025
 
-10. **Manjunath Mulimani**, Annamaria Mesaros. "A Closer Look at Class-Incremental Learning for Multi-Label Audio Classification", *IEEE Transactions on Audio, Speech and Language Processing*, vol. 33.
+10. **Manjunath Mulimani**, Annamaria Mesaros. "A Closer Look at Class-Incremental Learning for Multi-Label Audio Classification", *IEEE Transactions on Audio, Speech and Language Processing*, vol. 33, pp. 1293-1306, IEEE
 
 9. **Manjunath Mulimani**, Spoorthy V., Shashidhar G. Koolagudi. "Acoustic Event and Scene Classification: A Review", *SN Computer Science*, vol. 6, no. 54, Springer.
 
@@ -50,9 +50,13 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 ### 2025
 
-20. **Manjunath Mulimani**, Annamaria Mesaros. "Domain-Incremental Learning for Audio Classification", *IEEE ICASSP*, 2025 (Accepted).
+22. **Manjunath Mulimani**, Annamaria Mesaros, “Universal Incremental Learning for Few-Shot Bird Sound Classification,” in Proceedings of the Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE) 2025, pp. 90–94.
 
-19. Ruchi Pandey, **Manjunath Mulimani**, Archontis Politis, Annamaria Mesaros. "Class-Incremental Learning for Sound Event Localization and Detection", *IEEE ICASSP Workshop*, 2025 (Accepted).
+21. **Manjunath Mulimani**, Annamaria Mesaros, “Online incremental learning for audio classification using a pretrained audio model,” in IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA) 2025, pp. 1–5.
+
+20. **Manjunath Mulimani**, Annamaria Mesaros. "Domain-Incremental Learning for Audio Classification", *IEEE ICASSP*, pp. 1-5.
+
+19. Ruchi Pandey, **Manjunath Mulimani**, Archontis Politis, Annamaria Mesaros. "Class-Incremental Learning for Sound Event Localization and Detection", *IEEE ICASSP Workshop*, 2025, pp. 1-5.
 
 ### 2024
 

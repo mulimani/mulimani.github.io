@@ -8,21 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Postdoctoral Researcher** at the **Machine Listening Group, Tampere University, Finland**, working with Professor **Annamaria Mesaros** on audio signal processing and machine learning.
+I am a Postdoctoral Researcher at the [Audio Analysis Lab](https://audio.create.aau.dk/), Aalborg University, Denmark, working with Associate Professor [Jesper Rindom Jensen](https://vbn.aau.dk/da/persons/jrj/). My research focuses on machine listening and adaptive learning systems, with an emphasis on speech enhancement and continual learning in dynamic, real-world environments.
 
-I obtained my **Ph.D.** in the Department of Computer Science and Engineering at **National Institute of Technology (NIT) Karnataka Surathkal, India**, under the supervision of Professor **Shashidhar G. Koolagudi**, where I focused on acoustic scene classification and sound event detection.
+Previously, I was a Postdoctoral Researcher in the [Machine Listening Group](https://research.tuni.fi/machinelistening/) at Tampere University, Finland, where I worked with Associate Professor [Annamaria Mesaros](https://homepages.tuni.fi/annamaria.mesaros/index). My research there focused on continual learning for audio, addressing challenges such as class-, domain-, and universal incremental learning in real-world acoustic systems.
 
-Previously, I worked as a **Summer Research Fellow** at the Indian Institute of Technology Delhi and the Indian Institute of Space Science and Technology, Thiruvananthapuram (sponsored by the Indian Academy of Sciences).
+I received my Ph.D. in Computer Science and Engineering from the National Institute of Technology Karnataka (NITK), Surathkal, India, under the supervision of Professor [Shashidhar G. Koolagudi](https://cse.nitk.ac.in/faculty/shashidhar-g-koolagudi). My doctoral research focused on acoustic scene classification and sound event detection, contributing to data-driven approaches for real-world audio understanding.
 
-Research Interests
-======
-My research focuses on:
-- Audio signal processing
-- Machine learning and deep learning
-- Acoustic scene classification
-- Audio tagging
-- Sound event detection
-- Incremental and domain-adaptive learning for audio
+My broader research agenda is to develop intelligent audio systems that can continuously learn, adapt, and generalize across evolving environments, bridging the gap between static models and lifelong learning systems.
+
+
 
 News
 ======
