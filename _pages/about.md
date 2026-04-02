@@ -20,6 +20,9 @@ My broader research agenda is to develop intelligent audio systems that can cont
 
 News
 ======
+- **April 01, 2026**
+Organizer of the DCASE2026 Challenge - [Task 7: Domain-Agnostic Incremental Learning for Audio Classification](https://dcase.community/challenge2026/task-domain-agnostic-incremental-learning-for-audio-classification#audio-dataset).
+
 - **September 16, 2025**
 Invited talk at the Machine Learning for Tracking Early Behavior and Environments workshop, IEEE International Conference on Development and Learning (ICDL 2025), Prague.
 
