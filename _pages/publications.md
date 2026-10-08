@@ -48,23 +48,29 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 ## Peer-reviewed Conference Publications
 
+### 2026
+
+24. Riccardo Casciotti, **Manjunath Mulimani**, Manu Harju, Jesper Rindom Jensen, Annamaria Mesaros. "Domain-Agnostic Incremental Learning for Sound Classification. A DCASE 2026 Challenge task," in Proceedings of the Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE) 2026
+
+23. Joan Imbwaga, **Manjunath Mulimani**, and Okko Räsänen. “Quantifying Explanation Drift in Audio using Post-hoc Explainable Continual Learning”, *IEEE European Signal Processing Conference (EUSIPCO)*, 2026.
+
 ### 2025
 
-22. **Manjunath Mulimani**, Annamaria Mesaros, “Universal Incremental Learning for Few-Shot Bird Sound Classification,” in Proceedings of the Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE) 2025, pp. 90–94.
+22. **Manjunath Mulimani**, Annamaria Mesaros, “Universal Incremental Learning for Few-Shot Bird Sound Classification,” *Proceedings of the Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)*, 2025, pp. 90–94.
 
-21. **Manjunath Mulimani**, Annamaria Mesaros, “Online incremental learning for audio classification using a pretrained audio model,” in IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA) 2025, pp. 1–5.
+21. **Manjunath Mulimani**, Annamaria Mesaros, “Online incremental learning for audio classification using a pretrained audio model,” *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, 2025, pp. 1–5.
 
-20. **Manjunath Mulimani**, Annamaria Mesaros. "Domain-Incremental Learning for Audio Classification", *IEEE ICASSP*, pp. 1-5.
+20. **Manjunath Mulimani**, Annamaria Mesaros. "Domain-Incremental Learning for Audio Classification", *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025, pp. 1-5.
 
-19. Ruchi Pandey, **Manjunath Mulimani**, Archontis Politis, Annamaria Mesaros. "Class-Incremental Learning for Sound Event Localization and Detection", *IEEE ICASSP Workshop*, 2025, pp. 1-5.
+19. Ruchi Pandey, **Manjunath Mulimani**, Archontis Politis, Annamaria Mesaros. "Class-Incremental Learning for Sound Event Localization and Detection", *IEEE International Conference on Acoustics, Speech, and Signal Processing Workshop (ICASSPW)*, 2025, pp. 1-5.
 
 ### 2024
 
-18. **Manjunath Mulimani**, Annamaria Mesaros. "Acoustic Scene Classification Across Multiple Devices through Incremental Learning of Device-Specific Domains", *DCASE Workshop*, 2024, pp. 81–85. <span style="color:red">*(Best paper Award)*</span>
+18. **Manjunath Mulimani**, Annamaria Mesaros. "Acoustic Scene Classification Across Multiple Devices through Incremental Learning of Device-Specific Domains", *Proceedings of the Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)*, 2024, pp. 81–85. <span style="color:red">*(Best paper Award)*</span>
 
-17. **Manjunath Mulimani**, Annamaria Mesaros. "Online Domain-Incremental Learning Approach to Classify Acoustic Scenes in All Locations", *IEEE EUSIPCO*, 2024, pp. 96–100.
+17. **Manjunath Mulimani**, Annamaria Mesaros. "Online Domain-Incremental Learning Approach to Classify Acoustic Scenes in All Locations", *IEEE European Signal Processing Conference (EUSIPCO)*, 2024, pp. 96–100.
 
-16. **Manjunath Mulimani**, Annamaria Mesaros. "Class-Incremental Learning for Multi-label Audio Classification", *IEEE ICASSP*, 2024, pp. 916–920.
+16. **Manjunath Mulimani**, Annamaria Mesaros. "Class-Incremental Learning for Multi-label Audio Classification", *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2024, pp. 916–920.
 
 ### 2023
 
@@ -82,9 +88,9 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 12. Spoorthy V., **Manjunath Mulimani**, Shashidhar G. Koolagudi. "Acoustic Scene Classification using Deep Learning Architectures", *IEEE International Conference for Convergence in Technology (I2CT)*, 2020.
 
-11. **Manjunath Mulimani**, Akash Kademani, Shashidhar G. Koolagudi. "A Deep Neural Network-Driven Features Learning Method for Polyphonic Acoustic Event Detection from Real-life Recordings", *IEEE ICASSP*, 2020.
+11. **Manjunath Mulimani**, Akash Kademani, Shashidhar G. Koolagudi. "A Deep Neural Network-Driven Features Learning Method for Polyphonic Acoustic Event Detection from Real-life Recordings", *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020.
 
-10. Chundra Chur Chetterjee, **Manjunath Mulimani**, Shashidhar G. Koolagudi. "Polyphonic Sound Event Detection using Transposed Convolutional Recurrent Neural Network", *IEEE ICASSP*, 2020, pp. 661-665.
+10. Chundra Chur Chetterjee, **Manjunath Mulimani**, Shashidhar G. Koolagudi. "Polyphonic Sound Event Detection using Transposed Convolutional Recurrent Neural Network", *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020, pp. 661-665.
 
 ### 2019
 
