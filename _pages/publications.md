@@ -50,7 +50,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 ### 2026
 
-24. Riccardo Casciotti, **Manjunath Mulimani**, Manu Harju, Jesper Rindom Jensen, Annamaria Mesaros. "Domain-Agnostic Incremental Learning for Sound Classification. A DCASE 2026 Challenge task," in Proceedings of the Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE) 2026
+24. Riccardo Casciotti, **Manjunath Mulimani**, Manu Harju, Jesper Rindom Jensen, Annamaria Mesaros. "Domain-Agnostic Incremental Learning for Sound Classification. A DCASE 2026 Challenge task," *Proceedings of the Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)*, 2026
 
 23. Joan Imbwaga, **Manjunath Mulimani**, and Okko Räsänen. “Quantifying Explanation Drift in Audio using Post-hoc Explainable Continual Learning”, *IEEE European Signal Processing Conference (EUSIPCO)*, 2026.
 
