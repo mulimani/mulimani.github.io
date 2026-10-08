@@ -32,7 +32,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 ### 2021
 
-5. Jagruthi H, Kavitha C, **Manjunath Mulimani**. "Network Intrusion Detection using Fusion Features and Convolutional Bidirectional Recurrent Neural Network", *International Journal on Computer Application*.
+5. Jagruthi H, Kavitha C, **Manjunath Mulimani**. "Network Intrusion Detection using Fusion Features and Convolutional Bidirectional Recurrent Neural Network", *International Journal on Computer Application*, vol. 69, no. 1, pp.93-100, Inderscience.
 
 4. Ritika Nandi, **Manjunath Mulimani**. "Detection of COVID-19 from X-rays using Hybrid Deep Learning Models", *Research on Biomedical Engineering*, vol. 37, pp. 687-695, Springer.
 
