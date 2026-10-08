@@ -22,6 +22,7 @@ News
 ======
 - **September 01-09, 2026**
 Visiting Researcher, University of Illinois Urbana-Champaign, USA, supported by an EUStratUP grant from Aalborg University. During my visit, I had valuable research discussions with Associate Professor [Minje Kim](https://minjekim.com/).
+
 - **April 01, 2026**
 Organizer of the DCASE2026 Challenge - [Task 7: Domain-Agnostic Incremental Learning for Audio Classification](https://dcase.community/challenge2026/task-domain-agnostic-incremental-learning-for-audio-classification#audio-dataset).
 
