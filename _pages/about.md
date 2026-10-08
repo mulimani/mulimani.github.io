@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the [Audio Analysis Lab](https://audio.create.aau.dk/), Aalborg University, Denmark, working with Associate Professor [Jesper Rindom Jensen](https://vbn.aau.dk/da/persons/jrj/). My research focuses on machine listening and adaptive learning systems, with an emphasis on speech enhancement and continual learning in dynamic, real-world environments.
+I am a Postdoctoral Researcher at the [Audio Analysis Lab](https://vbn.aau.dk/en/organisations/audio-analysis-lab-2/), Aalborg University, Denmark, working with Associate Professor [Jesper Rindom Jensen](https://vbn.aau.dk/da/persons/jrj/). My research focuses on machine listening and adaptive learning systems, with an emphasis on speech enhancement and continual learning in dynamic, real-world environments.
 
 Previously, I was a Postdoctoral Researcher in the [Machine Listening Group](https://research.tuni.fi/machinelistening/) at Tampere University, Finland, where I worked with Associate Professor [Annamaria Mesaros](https://homepages.tuni.fi/annamaria.mesaros/index). My research there focused on continual learning for audio, addressing challenges such as class-, domain-, and universal incremental learning in real-world acoustic systems.
 
